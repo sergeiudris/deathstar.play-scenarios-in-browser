@@ -10,3 +10,7 @@ a browser-only app to play scenarios, single player and/or multiplayer
 - the app will be deployed to github.io so anyone can play scenarios
 - single player definitely, look into multiplayer
 - the app should be an approxiamtion/in-the-direction of real GUI for the game (in terms of gameplay)
+
+## design
+
+- https://github.com/sergeiudris/deathstar.lab/blob/16380b7ccd30938c5a0e5ede77c6930bb4f1f8ed/docs/play-scenarios-in-browser/design-notes.md#app-design
