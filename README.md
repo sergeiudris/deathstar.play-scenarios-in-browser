@@ -9,3 +9,4 @@ a browser-only app to play scenarios, single player and/or multiplayer
 - so this will be a browser-only app with a list of game scenarios to play
 - the app will be deployed to github.io so anyone can play scenarios
 - single player definitely, look into multiplayer
+- the app should be an approxiamtion/in-the-direction of real GUI for the game (in terms of gameplay)
