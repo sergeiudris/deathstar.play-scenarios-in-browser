@@ -13,4 +13,4 @@ a browser-only app to play scenarios, single player and/or multiplayer
 
 ## design
 
-- https://github.com/sergeiudris/deathstar.lab/blob/3e7f456a40bdce2711c5c8354ca1cac4c9be3eb8/docs/play-scenarios-in-browser/design-notes.md#app-design
+- https://github.com/sergeiudris/deathstar.lab/blob/7a8c4ca14cfdf36b46a9bb8c9b696c3c26b8c2c1/docs/play-scenarios-in-browser/design-notes.md#app-design
