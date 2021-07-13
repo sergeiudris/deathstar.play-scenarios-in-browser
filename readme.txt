@@ -1,9 +1,9 @@
-# play-scenarios-in-browser
+play-scenarios-in-browser
 a browser-only app to play scenarios, single player and/or multiplayer
 
 [merged into https://github.com/DeathStarGame/DeathStarGame]
 
-## what and why
+what and why
 
 - how to convey game idea to others? fancy design? well, it's basically GUI
 - so the best way to explain the idea of this new type of games and Death Star in particular, is to have an approximation of GUI to play scenarios
@@ -13,6 +13,6 @@ a browser-only app to play scenarios, single player and/or multiplayer
 - single player definitely, look into multiplayer
 - the app should be an approxiamtion/in-the-direction of real GUI for the game (in terms of gameplay)
 
-## design
+design
 
 - https://github.com/DeathStarGame/DeathStarGame/blob/7a8c4ca14cfdf36b46a9bb8c9b696c3c26b8c2c1/docs/play-scenarios-in-browser/design-notes.md#app-design
